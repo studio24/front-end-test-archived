@@ -12,7 +12,7 @@ It is expected this test will take around 3-4 hours to complete.
 
 # Design reference
 
-See the *Design layout* folder.
+See the *design* folder.
 
 * Mobile.png
 * Mobile-320-grid.png (showing the underlying grid)
