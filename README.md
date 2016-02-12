@@ -57,4 +57,4 @@ Font sizes as defined in the original Photoshop design files. Use whatever CSS f
 
 
 ## Photography
-You will find the image of the craftsman inside the *Images* folder.
+You will find the image of the craftsman inside the *assets* folder.
