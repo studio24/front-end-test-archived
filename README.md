@@ -4,9 +4,9 @@
 
 Please build the components into well-formed HTML/CSS paying particular attention to matching the supplied web design in *Mobile.png* and *Desktop.png* as well as you see fit. Pay special attention to colour, spacing and type. 
 
-Please build one responsive web page and make your own judgement on how the components should change in-between the two illustrated breakpoints. Do not use any third-party libraries, frameworks or themes for this work. There is no requirement for JavaScript interaction, HTML and CSS will suffice. 
+Please build one responsive web page and make your own judgement on how the components should change in-between the two illustrated breakpoints. Do not use any third-party libraries, build tools, frameworks or themes for this work. There is no requirement for JavaScript interaction, HTML and CSS will suffice. 
 
-Please supply this as a single HTML page with associated files (e.g. CSS, images). We will test this by viewing the web page via a URL on http://localhost to ensure the web fonts load.
+Please supply this as a single, static HTML file with associated asset files (e.g. CSS, images). We will test this by viewing the web page via a URL on http://localhost to ensure the web fonts load.
 
 It is expected this test will take around 3-4 hours to complete. 
 
