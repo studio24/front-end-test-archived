@@ -2,13 +2,27 @@
 
 ## Instructions
 
-Please build the components into well-formed HTML/CSS paying particular attention to matching the supplied web design in *Mobile.png* and *Desktop.png* as well as you see fit. Pay special attention to colour, spacing and type. 
+Please build the supplied design into well-formed HTML/CSS. 
 
-Please build one responsive web page and make your own judgement on how the components should change in-between the two illustrated breakpoints. Do not use any third-party libraries, build tools, frameworks or themes for this work. There is no requirement for JavaScript interaction, HTML and CSS will suffice. 
+The objectives are to:
 
-Please supply this as a single, static HTML file with associated asset files (e.g. CSS, images). We will test this by viewing the web page via a URL on http://localhost to ensure the web fonts load.
+* Replicate the supplied design accurately, taking into account any changes you may need to implement to make this work on different devices.
+* Build a standards-based, accessible and responsive web page.
+* Deliver this as a single HTML page with assets (e.g. images, CSS) loaded from a sub-folder (e.g. `assets/`).
 
-It is expected this test will take around 3-4 hours to complete. 
+Constraints of this task are:
+
+* Write vanilla HTML, CSS and JavaScript. No frameworks or build tools can be used (that means no Bootstrap, Foundation, SASS or similar tools). 
+* Your work must be responsive and accessible. 
+* Use relative links so the web page works if you just load it in a web browser without a local hostname.
+
+We will test this by viewing the web page via a URL on http://localhost to ensure the web fonts load. We'll test this on:
+
+* Firefox and Chrome on desktop
+* IE11 on a Windows PC
+* iOS Safari and Android Chrome on mobile
+
+It is expected this test will take around half a day to complete. 
 
 # Design reference
 
@@ -54,7 +68,6 @@ Font sizes as defined in the original Photoshop design files. Use whatever CSS f
 * Hero image sub-title: 34px
 * Navigation title: 24px, link navigation to nav.html
 * Navigation sub-title: 22px
-
 
 ## Photography
 You will find the image of the craftsman inside the *assets* folder.
